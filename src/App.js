@@ -185,74 +185,7 @@ export default class ContactForm extends React.Component {
   
   render() {
     return (
-      <div style={{textAlign:'center'}}>
-        <div class="g-signin2" data-onsuccess="onSignIn"></div>
-         <>
-        <CSVReader
-          ref={buttonRef}
-          onFileLoad={this.handleOnFileLoad}
-          onError={this.handleOnError}
-          noClick
-          noDrag
-          onRemoveFile={this.handleOnRemoveFile}
-        >
-          {({ file }) => (
-            <aside style={{textAlign:'center'}}>
-              <Button
-                style={{marginBottom:10}}
-                color="primary"
-                variant="contained"
-                type='button'
-                onClick={this.handleOpenDialog}
-              >
-                Загрузить таблицу
-              </Button>
-              <div
-                style={{
-                  borderWidth: 1,
-                  borderStyle: 'solid',
-                  borderColor: '#ccc',
-                  height: 30,
-                  lineHeight: 2.5,
-                  marginTop: 5,
-                  marginBottom: 5,
-                  marginRight: 10,
-                  marginLeft: 10,
-                  paddingLeft: 13,
-                  paddingTop: 3,
-                }}
-              >
-                {file && file.name}
-              </div>
-            </aside>
-          )}
-        </CSVReader>
-      </>
-      {this.state.loadingComplete ? 
-      <div>
-      <h2>Таблица готова</h2>
-      <h2>Опоздали:</h2>
-      <ul style={{listStyle:'none', marginLeft:-40}}>
-        {this.state.opozdun.map(item=>
-        <li>{item}</li>)}
-        </ul>
-      </div>: null
-  }
-      {this.state.loading ?
-      <div style={{marginTop: 50}}>
-        Заполняю таблицу...
-      </div> : null
-  }
-      {this.state.tableReady ?
-       <Button 
-       style={{marginTop:50}}
-       variant="contained" 
-       color="primary" 
-       onClick={this.onFormSubmit}>
-         ПОЕХАЛИ
-         </Button> : null
-  }
-      </div>
+      <div>hi</div>
     )
   }
 }
