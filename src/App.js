@@ -1,7 +1,7 @@
 import { gapi } from 'gapi-script';
 import React from 'react';
 import { CSVReader } from 'react-papaparse'
-import { mainData } from './data'
+import { mainData } from './data.js'
 import { Button } from '@material-ui/core';
 
 const buttonRef = React.createRef()
