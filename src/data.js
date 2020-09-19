@@ -41,7 +41,7 @@ export const mainData = [
     },
       {
         id: 50,
-          name: 'elenakireeva'
+          name: 'Lena Kireeva'
       },
       {
         id: 24,
@@ -317,7 +317,7 @@ export const mainData = [
       },
       {
         id: 85,
-          name: 'Sofya Petrova'
+          name: 'Sofia Petrova'
       },
       {
         id: 25,
