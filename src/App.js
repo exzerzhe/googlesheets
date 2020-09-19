@@ -6,7 +6,7 @@ import { Button } from '@material-ui/core';
 
 const buttonRef = React.createRef()
 const SPREADSHEET_ID = '1g1tvnn9WXl5bg2upXr7DBGXrgls_GmjSre2ODJqS6z0'; //from the URL of your blank Google Sheet
-const CLIENT_ID = '457989737322-joqnvmdh9ig7g0kah2keb4i7od6red57.apps.googleusercontent.com'; //from https://console.developers.google.com/apis/credentials
+const CLIENT_ID = '457989737322-ebodvgsu7gn145i696vfc73q2heqjdtk.apps.googleusercontent.com'; //from https://console.developers.google.com/apis/credentials
 const API_KEY = 'AIzaSyDX9HSVapiGgzfxo33QH-SMNqmU8CuIOII'; //https://console.developers.google.com/apis/credentials
 const SCOPE = 'https://www.googleapis.com/auth/spreadsheets';
 
