@@ -347,6 +347,10 @@ export const mainData = [
         id: 83,
           name: 'Sergey Lysogor'
       },
+      {
+        id: 36,
+          name: 'Dmitry Kondakov'
+      },
   ]
 
  
