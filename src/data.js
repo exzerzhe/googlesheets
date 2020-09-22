@@ -288,6 +288,10 @@ export const mainData = [
           name: 'Yana Savchenko'
       },
       {
+        id: 92,
+          name: 'Yana Savchenko (iPhone (Яна С))'
+      },
+      {
         id: 17,
           name: 'ADNREI IAKOBCHUK'
       },
@@ -324,7 +328,7 @@ export const mainData = [
           name: 'Валерия Донич'
       },
       {
-        id: 10,
+        id: 9,
           name: 'Aleksey Oliferchik'
       },
       {
@@ -359,6 +363,11 @@ export const mainData = [
         id: 36,
           name: 'Dmitry Kondakov'
       },
+      {
+        id: 1,
+          name: 'a.bendyukov'
+      },
+      
   ]
 
  
