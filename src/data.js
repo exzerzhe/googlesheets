@@ -196,6 +196,10 @@ export const mainData = [
           name: 'Kristina Lyamina'
       },
       {
+        id: 58,
+          name: 'Kristina L'
+      },
+      {
         id: 61,
           name: 'Maria Protasova'
       },
