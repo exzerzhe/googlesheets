@@ -260,6 +260,10 @@ export const mainData = [
           name: 'Дмитрий Кретов'
       },
       {
+        id: 35,
+          name: 'Dmitriy Kretov'
+      },
+      {
         id: 71,
           name: 'Oleg Kashtalyan'
       },
@@ -330,6 +334,10 @@ export const mainData = [
       {
         id: 25,
           name: 'Валерия Донич'
+      },
+      {
+        id: 25,
+          name: 'Valeria Donich'
       },
       {
         id: 9,
