@@ -28,6 +28,10 @@ export const mainData = [
         name: 'Виктор Селуков'
     },
     {
+      id: 28,
+        name: 'Victor Selukov'
+    },
+    {
       id: 88,
         name: 'Elnur Ismailzada'
     },
@@ -258,6 +262,10 @@ export const mainData = [
       {
         id: 16,
           name: 'Andrey Redkozubov'
+      },
+      {
+        id: 16,
+          name: 'Андрей редкозубов'
       },
       {
         id: 35,
