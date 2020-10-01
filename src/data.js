@@ -8,11 +8,11 @@ export const mainData = [
         name: 'Artyom Smirnov'
     },
     {
-      id: 89,
+      id: 88,
         name: 'Yulia Dovgal'
     },
     {
-      id: 84,
+      id: 83,
         name: 'Sergey Tovmasyan'
     },
     {
@@ -32,7 +32,7 @@ export const mainData = [
         name: 'Victor Selukov'
     },
     {
-      id: 88,
+      id: 87,
         name: 'Elnur Ismailzada'
     },
     {
@@ -84,7 +84,7 @@ export const mainData = [
           name: 'Mikhail Gusev'
       },
       {
-        id: 80,
+        id: 79,
           name: 'Roman Pudashkin'
       },
       {
@@ -92,11 +92,11 @@ export const mainData = [
           name: 'Alla Voropaeva'
       },
       {
-        id: 90,
+        id: 89,
           name: 'Yulia Drozd'
       },
       {
-        id: 81,
+        id: 80,
           name: 'Roman Yakovlev'
       },
       {
@@ -112,7 +112,7 @@ export const mainData = [
           name: 'Janna Radovskaya'
       },
       {
-        id: 78,
+        id: 77,
           name: 'Roman Kislenо́k'
       },
       {
@@ -124,7 +124,7 @@ export const mainData = [
           name: 'Anton Chirtsov'
       },
       {
-        id: 86,
+        id: 85,
           name: 'Stanislav Botev'
       },
       {
@@ -200,6 +200,10 @@ export const mainData = [
           name: 'Давид Мандельштам'
       },
       {
+        id: 34,
+          name: 'David Mandelstam'
+      },
+      {
         id: 58,
           name: 'Kristina Lyamina'
       },
@@ -212,7 +216,7 @@ export const mainData = [
           name: 'Maria Protasova'
       },
       {
-        id: 76,
+        id: 75,
           name: 'Pavel Smokotnin'
       },
       {
@@ -220,7 +224,7 @@ export const mainData = [
           name: 'Michael Trutnev'
       },
       {
-        id: 82,
+        id: 81,
           name: 'Sergey Larin'
       },
       {
@@ -232,7 +236,7 @@ export const mainData = [
           name: 'Dmitriy Shashkin'
       },
       {
-        id: 79,
+        id: 78,
           name: 'Roman Pazilov'
       },
       {
@@ -240,11 +244,11 @@ export const mainData = [
           name: 'Andrey Kovalev'
       },
       {
-        id: 77,
+        id: 76,
           name: 'Paula Abdul'
       },
       {
-        id: 91,
+        id: 90,
           name: 'Yulia Pototskaya'
       },
       {
@@ -292,7 +296,7 @@ export const mainData = [
           name: 'Olga Novikova'
       },
       {
-        id: 93,
+        id: 92,
           name: 'Vitalii Tutunov'
       },
       {
@@ -300,7 +304,7 @@ export const mainData = [
           name: 'Evgeniy Prokopiev'
       },
       {
-        id: 87,
+        id: 86,
           name: 'Tatiana Naidenova'
       },
       {
@@ -308,11 +312,11 @@ export const mainData = [
           name: 'Dmitry Maslennikov'
       },
       {
-        id: 92,
+        id: 91,
           name: 'Yana Savchenko'
       },
       {
-        id: 92,
+        id: 91,
           name: 'Yana Savchenko (iPhone (Яна С))'
       },
       {
@@ -344,7 +348,7 @@ export const mainData = [
           name: 'Eugene Yakshin'
       },
       {
-        id: 85,
+        id: 84,
           name: 'Sofia Petrova'
       },
       {
@@ -362,6 +366,10 @@ export const mainData = [
       {
         id: 32,
           name: 'Vladimir Skabelkin'
+      },
+      {
+        id: 40,
+          name: 'Eugene Belyakov'
       },
       {
         id: 37,
@@ -384,7 +392,7 @@ export const mainData = [
           name: 'Mikhail Kirilin'
       },
       {
-        id: 83,
+        id: 82,
           name: 'Sergey Lysogor'
       },
       {
