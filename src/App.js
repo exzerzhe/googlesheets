@@ -72,7 +72,7 @@ export default class ContactForm extends React.Component {
   let difference = result2[1] - result[1]
   let opozdal = []
    peopleTime.filter(function(item){
-     if(item.data[1] < difference) {
+     if(item.data[1] - difference < 0) {
        opozdal.push(item.data[0])
      }
    })
