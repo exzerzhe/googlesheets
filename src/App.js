@@ -83,7 +83,7 @@ export default class ContactForm extends React.Component {
    mainData.forEach(function(item) {
      csvData.forEach(function(items){
        if(item.name === items.data[0]){
-           arr.push(item.id+1)
+           arr.push(item.id)
        }
      })
    }

@@ -4,7 +4,7 @@ export const mainData = [
         name: 'Eugene Mardashov'
     },
     {   
-      id: 20,
+      id: 21,
         name: 'Artyom Smirnov'
     },
     {
@@ -28,7 +28,7 @@ export const mainData = [
         name: 'Виктор Селуков'
     },
     {
-      id: 28,
+      id: 29,
         name: 'Victor Selukov'
     },
     {
@@ -56,19 +56,19 @@ export const mainData = [
           name: 'elenakireeva'
       },
       {
-        id: 24,
+        id: 25,
           name: 'Valentina Kuzmina'
       },
       {
-        id: 15,
+        id: 16,
           name: 'Andrey Lebedevsky'
       },
       {
-        id: 10,
+        id: 11,
           name: 'Alexey Savenko'
       },
       {
-        id: 18,
+        id: 19,
           name: 'Anna Zueva'
       },
       {
@@ -76,11 +76,11 @@ export const mainData = [
           name: 'Ekaterina Nazarova'
       },
       {
-        id: 23,
+        id: 24,
           name: 'Bakhtiyar Alimbekov'
       },
       {
-        id: 30,
+        id: 31,
           name: 'Vladimir Buyanov'
       },
       {
@@ -92,7 +92,7 @@ export const mainData = [
           name: 'Roman Pudashkin'
       },
       {
-        id: 11,
+        id: 12,
           name: 'Alla Voropaeva'
       },
       {
@@ -124,7 +124,7 @@ export const mainData = [
           name: 'Igor Korsukov'
       },
       {
-        id: 19,
+        id: 20,
           name: 'Anton Chirtsov'
       },
       {
@@ -132,19 +132,19 @@ export const mainData = [
           name: 'Stanislav Botev'
       },
       {
-        id: 5,
+        id: 6,
           name: 'Alexander Ustinov'
       },
       {
-        id: 29,
+        id: 30,
           name: 'Vlad'
       },
       {
-        id: 8,
+        id: 9,
           name: 'Alexey Kovalevich'
       },
       {
-        id: 3,
+        id: 4,
           name: 'Alexander Nazarov'
       },
       {
@@ -152,11 +152,11 @@ export const mainData = [
           name: 'Ekaterina Smekhova'
       },
       {
-        id: 26,
+        id: 27,
           name: 'Vasilij Pereverzev'
       },
       {
-        id: 4,
+        id: 5,
           name: 'Alexandr Popov'
       },
       {
@@ -176,11 +176,11 @@ export const mainData = [
           name: 'Pavel Verkhovets'
       },
       {
-        id: 6,
+        id: 7,
           name: 'Alexander Shcherban'
       },
       {
-        id: 2,
+        id: 3,
           name: 'Alexander  Danchenko'
       },
       {
@@ -236,7 +236,7 @@ export const mainData = [
           name: 'Sergey Larin'
       },
       {
-        id: 14,
+        id: 15,
           name: 'Andrew Kuzkou'
       },
       {
@@ -248,7 +248,7 @@ export const mainData = [
           name: 'Roman Pazilov'
       },
       {
-        id: 13,
+        id: 14,
           name: 'Andrey Kovalev'
       },
       {
@@ -260,7 +260,7 @@ export const mainData = [
           name: 'Yulia Pototskaya'
       },
       {
-        id: 21,
+        id: 22,
           name: 'Artem Sobolenkov'
       },
       {
@@ -272,11 +272,11 @@ export const mainData = [
           name: 'Vyacheslav Shalkevich'
       },
       {
-        id: 16,
+        id: 17,
           name: 'Andrey Redkozubov'
       },
       {
-        id: 16,
+        id: 17,
           name: 'Андрей редкозубов'
       },
       {
@@ -292,11 +292,11 @@ export const mainData = [
           name: 'Oleg Kashtalyan'
       },
       {
-        id: 12,
+        id: 13,
           name: 'Andrei Golodok'
       },
       {
-        id: 22,
+        id: 23,
           name: 'Artyom Feshchenko'
       },
       {
@@ -328,7 +328,7 @@ export const mainData = [
           name: 'Yana Savchenko (iPhone (Яна С))'
       },
       {
-        id: 17,
+        id: 18,
           name: 'ADNREI IAKOBCHUK'
       },
       {
@@ -336,11 +336,11 @@ export const mainData = [
           name: 'Ekaterina Shmakova'
       },
       {
-        id: 7,
+        id: 8,
           name: 'Sasha Smirnova'
       },
       {
-        id: 27,
+        id: 28,
           name: 'Victor Kostyuk'
       },
       {
@@ -356,15 +356,15 @@ export const mainData = [
           name: 'Sofia Petrova'
       },
       {
-        id: 25,
+        id: 26,
           name: 'Валерия Донич'
       },
       {
-        id: 25,
+        id: 26,
           name: 'Valeria Donich'
       },
       {
-        id: 9,
+        id: 10,
           name: 'Aleksey Oliferchik'
       },
       {
@@ -404,7 +404,7 @@ export const mainData = [
           name: 'Dmitry Kondakov'
       },
       {
-        id: 1,
+        id: 2,
           name: 'a.bendyukov'
       },
       
