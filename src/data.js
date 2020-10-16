@@ -132,6 +132,10 @@ export const mainData = [
           name: 'Stanislav Botev'
       },
       {
+        id: 85,
+          name: 'S+anislav'
+      },
+      {
         id: 6,
           name: 'Alexander Ustinov'
       },
@@ -158,6 +162,10 @@ export const mainData = [
       {
         id: 5,
           name: 'Alexandr Popov'
+      },
+      {
+        id: 5,
+          name: 'alexandr popov'
       },
       {
         id: 57,
@@ -194,6 +202,10 @@ export const mainData = [
       {
         id: 67,
           name: 'Nikita Korneev'
+      },
+      {
+        id: 67,
+          name: 'Никита Корнеев'
       },
       {
         id: 70,
@@ -234,6 +246,10 @@ export const mainData = [
       {
         id: 81,
           name: 'Sergey Larin'
+      },
+      {
+        id: 81,
+          name: 'Sergey  Larin'
       },
       {
         id: 15,
@@ -314,6 +330,10 @@ export const mainData = [
       {
         id: 86,
           name: 'Tatiana Naidenova'
+      },
+      {
+        id: 86,
+          name: 'Tatiana'
       },
       {
         id: 38,
