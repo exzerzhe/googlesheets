@@ -353,6 +353,10 @@ export const mainData = [
       },
       {
         id: 91,
+          name: 'Yana SAVCHENKO'
+      },
+      {
+        id: 91,
           name: 'Yana Savchenko (iPhone (Яна С))'
       },
       {
