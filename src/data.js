@@ -1,82 +1,74 @@
 export const mainData = [
     {   
-        id: 43,
+        id: 42,
         name: 'Eugene Mardashov'
     },
     {   
-      id: 21,
+      id: 20,
         name: 'Artyom Smirnov'
     },
     {
-      id: 88,
+      id: 85,
         name: 'Yulia Dovgal'
     },
     {
-      id: 83,
+      id: 80,
         name: 'Sergey Tovmasyan'
     },
     {
-      id: 69,
+      id: 66,
         name: 'Nikolay Kostyurin'
     },
     {
-      id: 56,
-        name: 'Konstantin Kutsenko'
-    },
-    {
-      id: 30,
+      id: 29,
         name: 'Виктор Селуков'
     },
     {
-      id: 30,
+      id: 29,
         name: 'Victor Selukov'
     },
     {
-      id: 87,
+      id: 84,
         name: 'Elnur Ismailzada'
     },
     {
-      id: 87,
+      id: 84,
         name: 'elnur'
     },
     {
-      id: 46,
+      id: 45,
        name: 'Evgeniya Dudareva'
     },
     {
-      id: 46,
+      id: 45,
        name: 'Евгения Дударева'
     },
     {
-      id: 46,
+      id: 45,
        name: 'Evgenia Dudareva'
     },
-    {
-      id: 47,
-       name: 'Ekaterina Gordeeva'
-    },
       {
-        id: 50,
+        id: 48,
           name: 'Lena Kireeva'
       },
       {
-        id: 50,
+        id: 48,
           name: 'elenakireeva'
       },
       {
-        id: 26,
+        id: 25,
           name: 'Valentina Kuzmina'
       },
       {
-        id: 16,
+        id: 15,
           name: 'Andrey Lebedevsky'
       },
       {
-        id: 11,
+        id: 10,
           name: 'Alexey Savenko'
       },
       {
-        id: 19,
+        id: 18,
           name: 'Anna Zueva'
       },
       {
@@ -84,115 +76,111 @@ export const mainData = [
           name: 'Ekaterina Nazarova'
       },
       {
-        id: 24,
+        id: 23,
           name: 'Bakhtiyar Alimbekov'
       },
       {
-        id: 33,
+        id: 32,
           name: 'Vladimir Buyanov'
       },
       {
-        id: 62,
+        id: 59,
           name: 'Mikhail Gusev'
       },
       {
-        id: 79,
+        id: 76,
           name: 'Roman Pudashkin'
       },
       {
-        id: 12,
+        id: 11,
           name: 'Alla Voropaeva'
       },
       {
-        id: 89,
+        id: 86,
           name: 'Yulia Drozd'
       },
       {
-        id: 80,
+        id: 77,
           name: 'Roman Yakovlev'
       },
       {
-        id: 72,
+        id: 69,
           name: 'Olga Dosaeva'
       },
       {
-        id: 34,
+        id: 33,
           name: 'vlad chuprin'
       },
       {
-        id: 51,
+        id: 49,
           name: 'Janna Radovskaya'
       },
       {
-        id: 77,
+        id: 74,
           name: 'Roman Kislenо́k'
       },
       {
-        id: 54,
+        id: 52,
           name: 'Igor Korsukov'
       },
       {
-        id: 20,
+        id: 19,
           name: 'Anton Chirtsov'
       },
       {
-        id: 85,
+        id: 82,
           name: 'Stanislav Botev'
       },
       {
-        id: 85,
+        id: 82,
           name: 'S+anislav'
       },
       {
-        id: 6,
+        id: 5,
           name: 'Alexander Ustinov'
       },
       {
-        id: 32,
+        id: 31,
           name: 'Vlad'
       },
       {
-        id: 9,
+        id: 8,
           name: 'Alexey Kovalevich'
       },
       {
-        id: 4,
-          name: 'Alexander Nazarov'
-      },
-      {
-        id: 48,
+        id: 46,
           name: 'Ekaterina Smekhova'
       },
       {
-        id: 28,
+        id: 27,
           name: 'Vasilij Pereverzev'
       },
       {
-        id: 5,
+        id: 4,
           name: 'Alexandr Popov'
       },
       {
-        id: 5,
+        id: 4,
           name: 'alexandr popov'
       },
       {
-        id: 57,
+        id: 54,
           name: 'Kristina Zhukova'
       },
       {
-        id: 53,
+        id: 51,
           name: 'Ivan Fedorov'
       },
       {
-        id: 66,
+        id: 63,
           name: 'Nikita Zubarev'
       },
       {
-        id: 74,
+        id: 71,
           name: 'Pavel Verkhovets'
       },
       {
-        id: 7,
+        id: 6,
           name: 'Alexander Shcherban'
       },
       {
@@ -200,115 +188,115 @@ export const mainData = [
           name: 'Alexander  Danchenko'
       },
       {
-        id: 52,
+        id: 50,
           name: 'Ivan Pankov'
       },
       {
-        id: 52,
+        id: 50,
           name: 'pankov-id'
       },
       {
-        id: 67,
+        id: 64,
           name: 'Nikita Korneev'
       },
       {
-        id: 67,
+        id: 64,
           name: 'Никита Корнеев'
       },
       {
-        id: 70,
+        id: 67,
           name: 'Nikolaj Moskovkin'
       },
       {
-        id: 60,
+        id: 57,
           name: 'Maria Buryanina'
       },
       {
-        id: 36,
+        id: 35,
           name: 'Давид Мандельштам'
       },
       {
-        id: 36,
+        id: 35,
           name: 'David Mandelstam'
       },
       {
-        id: 58,
+        id: 55,
           name: 'Kristina Lyamina'
       },
       {
-        id: 58,
+        id: 55,
           name: 'Kristina Liamina'
       },
       {
-        id: 58,
+        id: 55,
           name: 'Kristina L'
       },
       {
-        id: 61,
+        id: 58,
           name: 'Maria Protasova'
       },
       {
-        id: 75,
+        id: 72,
           name: 'Pavel Smokotnin'
       },
       {
-        id: 65,
+        id: 62,
           name: 'Michael Trutnev'
       },
       {
-        id: 65,
+        id: 62,
           name: 'Михаил Трутнев'
       },
       {
-        id: 81,
+        id: 78,
           name: 'Sergey Larin'
       },
       {
-        id: 81,
+        id: 78,
           name: 'Sergey  Larin'
       },
       {
-        id: 15,
+        id: 14,
           name: 'Andrew Kuzkou'
       },
       {
-        id: 41,
+        id: 40,
           name: 'Dmitriy Shashkin'
       },
       {
-        id: 78,
+        id: 75,
           name: 'Roman Pazilov'
       },
       {
-        id: 14,
+        id: 13,
           name: 'Andrey Kovalev'
       },
       {
-        id: 76,
+        id: 73,
           name: 'Paula Abdul'
       },
       {
-        id: 91,
+        id: 88,
           name: 'Yulia Pototskaya'
       },
       {
-        id: 91,
+        id: 88,
           name: 'Pototskaya Julia'
       },
       {
-        id: 22,
+        id: 21,
           name: 'Artem Sobolenkov'
       },
       {
-        id: 55,
+        id: 53,
           name: 'Irina Tannik'
       },
       {
-        id: 35,
+        id: 34,
           name: 'Vyacheslav Shalkevich'
       },
       {
-        id: 17,
+        id: 16,
           name: 'Andrey Redkozubov'
       },
       {
@@ -316,99 +304,99 @@ export const mainData = [
           name: 'Андрей редкозубов'
       },
       {
-        id: 37,
+        id: 36,
           name: 'Дмитрий Кретов'
       },
       {
-        id: 37,
+        id: 36,
           name: 'Dmitriy Kretov'
       },
       {
-        id: 71,
+        id: 68,
           name: 'Oleg Kashtalyan'
       },
       {
-        id: 13,
+        id: 12,
           name: 'Andrei Golodok'
       },
       {
-        id: 23,
+        id: 22,
           name: 'Artyom Feshchenko'
       },
       {
-        id: 73,
+        id: 70,
           name: 'Olga Novikova'
       },
       {
-        id: 31,
+        id: 30,
           name: 'Vitalii Tutunov'
       },
       {
-        id: 44,
+        id: 43,
           name: 'Evgeniy Prokopiev'
       },
       {
-        id: 86,
+        id: 83,
           name: 'Tatiana Naidenova'
       },
       {
-        id: 86,
+        id: 83,
           name: 'Tatiana'
       },
       {
-        id: 40,
+        id: 39,
           name: 'Dmitry Maslennikov'
       },
       {
-        id: 92,
+        id: 89,
           name: 'Yana Savchenko'
       },
       {
-        id: 92,
+        id: 89,
           name: 'Yana SAVCHENKO'
       },
       {
-        id: 92,
+        id: 89,
           name: 'Yana Savchenko (iPhone (Яна С))'
       },
       {
-        id: 18,
+        id: 17,
           name: 'ADNREI IAKOBCHUK'
       },
       {
-        id: 49,
+        id: 47,
           name: 'Ekaterina Shmakova'
       },
       {
-        id: 8,
+        id: 7,
           name: 'Sasha Smirnova'
       },
       {
-        id: 29,
+        id: 28,
           name: 'Victor Kostyuk'
       },
       {
-        id: 68,
+        id: 65,
           name: 'Nikolay Bulanov'
       },
       {
-        id: 45,
+        id: 44,
           name: 'Eugene Yakshin'
       },
       {
-        id: 84,
+        id: 81,
           name: 'Sofia Petrova'
       },
       {
-        id: 27,
+        id: 26,
           name: 'Валерия Донич'
       },
       {
-        id: 27,
+        id: 26,
           name: 'Valeria Donich'
       },
       {
-        id: 10,
+        id: 9,
           name: 'Aleksey Oliferchik'
       },
       {
@@ -416,31 +404,31 @@ export const mainData = [
           name: 'Vladimir Skabelkin'
       },
       {
-        id: 42,
+        id: 41,
           name: 'Eugene Belyakov'
       },
       {
-        id: 39,
+        id: 38,
           name: 'Dmitry Marchikhin'
       },
       {
-        id: 59,
+        id: 56,
           name: 'Maxim Chistyakov'
       },
       {
-        id: 64,
+        id: 61,
           name: 'Mikhail Korolev'
       },
       {
-        id: 63,
+        id: 60,
           name: 'Mikhail Kirilin'
       },
       {
-        id: 82,
+        id: 79,
           name: 'Sergey Lysogor'
       },
       {
-        id: 38,
+        id: 37,
           name: 'Dmitry Kondakov'
       },
       {
@@ -448,19 +436,19 @@ export const mainData = [
           name: 'a.bendyukov'
       },
       {
-        id: 25,
+        id: 24,
           name: 'Valentin Vashchenko'
       },
       {
-        id: 25,
+        id: 24,
           name: 'Валентин Ващенко'
       },
       {
-        id: 25,
+        id: 24,
           name: 'valentin'
       },
       {
-        id: 90,
+        id: 87,
           name: 'Yulia Igoshina'
       },
       
