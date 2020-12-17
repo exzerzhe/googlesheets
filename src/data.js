@@ -136,8 +136,16 @@ export const mainData = [
           name: 'S+anislav'
       },
       {
+        id: 82,
+          name: 'Станислав'
+      },
+      {
         id: 5,
           name: 'Alexander Ustinov'
+      },
+      {
+        id: 5,
+          name: 'a.ustinov@wsmgroup.ru'
       },
       {
         id: 31,
@@ -281,6 +289,10 @@ export const mainData = [
       },
       {
         id: 88,
+          name: 'Юлия Потоцкая'
+      },
+      {
+        id: 88,
           name: 'Pototskaya Julia'
       },
       {
@@ -318,6 +330,10 @@ export const mainData = [
       {
         id: 12,
           name: 'Andrei Golodok'
+      },
+      {
+        id: 12,
+          name: 'Андрей Голодок'
       },
       {
         id: 22,
