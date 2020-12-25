@@ -464,6 +464,10 @@ export const mainData = [
           name: 'valentin'
       },
       {
+        id: 24,
+          name: '(Валентин)'
+      },
+      {
         id: 87,
           name: 'Yulia Igoshina'
       },
