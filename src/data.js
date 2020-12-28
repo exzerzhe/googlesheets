@@ -133,6 +133,10 @@ export const mainData = [
       },
       {
         id: 82,
+          name: 'Станислав Ботев'
+      },
+      {
+        id: 82,
           name: 'S+anislav'
       },
       {
