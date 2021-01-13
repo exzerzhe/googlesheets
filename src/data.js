@@ -8,11 +8,11 @@ export const mainData = [
         name: 'Artyom Smirnov'
     },
     {
-      id: 87,
+      id: 86,
         name: 'Yulia Dovgal'
     },
     {
-      id: 82,
+      id: 81,
         name: 'Sergey Tovmasyan'
     },
     {
@@ -28,11 +28,11 @@ export const mainData = [
         name: 'Victor Selukov'
     },
     {
-      id: 86,
+      id: 85,
         name: 'Elnur Ismailzada'
     },
     {
-      id: 86,
+      id: 85,
         name: 'elnur'
     },
     {
@@ -124,19 +124,19 @@ export const mainData = [
           name: 'Anton Chirtsov'
       },
       {
-        id: 84,
+        id: 83,
           name: 'Stanislav Botev'
       },
       {
-        id: 84,
+        id: 83,
           name: 'Станислав Ботев'
       },
       {
-        id: 84,
+        id: 83,
           name: 'S+anislav'
       },
       {
-        id: 84,
+        id: 83,
           name: 'Станислав'
       },
       {
@@ -284,15 +284,15 @@ export const mainData = [
           name: 'Paula Abdul'
       },
       {
-        id: 89,
+        id: 88,
           name: 'Yulia Pototskaya'
       },
       {
-        id: 89,
+        id: 88,
           name: 'Юлия Потоцкая'
       },
       {
-        id: 89,
+        id: 88,
           name: 'Pototskaya Julia'
       },
       {
@@ -352,7 +352,7 @@ export const mainData = [
           name: 'Evgeniy Prokopiev'
       },
       {
-        id: 85,
+        id: 84,
           name: 'Tatiana Naidenova'
       },
       {
@@ -388,7 +388,7 @@ export const mainData = [
           name: 'Eugene Yakshin'
       },
       {
-        id: 83,
+        id: 82,
           name: 'Sofia Petrova'
       },
       {
@@ -436,10 +436,6 @@ export const mainData = [
           name: 'Mikhail Kirilin'
       },
       {
-        id: 81,
-          name: 'Sergey Lysogor'
-      },
-      {
         id: 39,
           name: 'Dmitry Kondakov'
       },
@@ -464,7 +460,7 @@ export const mainData = [
           name: '(Валентин)'
       },
       {
-        id: 88,
+        id: 87,
           name: 'Yulia Igoshina'
       },
       
