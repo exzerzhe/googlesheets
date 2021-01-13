@@ -284,6 +284,10 @@ export const mainData = [
           name: 'Paula Abdul'
       },
       {
+        id: 75,
+          name: 'Паула Paula'
+      },
+      {
         id: 88,
           name: 'Yulia Pototskaya'
       },
@@ -302,6 +306,10 @@ export const mainData = [
       {
         id: 55,
           name: 'Irina Tannik'
+      },
+      {
+        id: 55,
+          name: 'Ирина Танник'
       },
       {
         id: 36,
