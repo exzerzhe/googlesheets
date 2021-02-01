@@ -8,11 +8,11 @@ export const mainData = [
     name: "Artyom Smirnov",
   },
   {
-    id: 89,
+    id: 88,
     name: "Yulia Dovgal",
   },
   {
-    id: 83,
+    id: 82,
     name: "Sergey Tovmasyan",
   },
   {
@@ -28,11 +28,11 @@ export const mainData = [
     name: "Victor Selukov",
   },
   {
-    id: 88,
+    id: 87,
     name: "Elnur Ismailzada",
   },
   {
-    id: 88,
+    id: 87,
     name: "elnur",
   },
   {
@@ -92,7 +92,7 @@ export const mainData = [
     name: "Mikhail Dolgikh",
   },
   {
-    id: 80,
+    id: 79,
     name: "Roman Pudashkin",
   },
   {
@@ -100,7 +100,7 @@ export const mainData = [
     name: "Alla Voropaeva",
   },
   {
-    id: 81,
+    id: 80,
     name: "Roman Yakovlev",
   },
   {
@@ -116,7 +116,7 @@ export const mainData = [
     name: "Janna Radovskaya",
   },
   {
-    id: 78,
+    id: 77,
     name: "Roman Kislenо́k",
   },
   {
@@ -128,7 +128,7 @@ export const mainData = [
     name: "Anton Chirtsov",
   },
   {
-    id: 85,
+    id: 84,
     name: "Stanislav Botev",
   },
   {
@@ -252,10 +252,6 @@ export const mainData = [
     name: "maria pro",
   },
   {
-    id: 76,
-    name: "Pavel Smokotnin",
-  },
-  {
     id: 66,
     name: "Michael Trutnev",
   },
@@ -264,11 +260,11 @@ export const mainData = [
     name: "Михаил Трутнев",
   },
   {
-    id: 82,
+    id: 81,
     name: "Sergey Larin",
   },
   {
-    id: 82,
+    id: 81,
     name: "Sergey  Larin",
   },
   {
@@ -284,7 +280,7 @@ export const mainData = [
     name: "Dmitriy Shashkin",
   },
   {
-    id: 79,
+    id: 78,
     name: "Roman Pazilov",
   },
   {
@@ -292,24 +288,12 @@ export const mainData = [
     name: "Andrey Kovalev",
   },
   {
-    id: 77,
+    id: 76,
     name: "Paula Abdul",
   },
   {
-    id: 77,
+    id: 76,
     name: "Паула Paula",
-  },
-  {
-    id: 91,
-    name: "Yulia Pototskaya",
-  },
-  {
-    id: 91,
-    name: "Юлия Потоцкая",
-  },
-  {
-    id: 91,
-    name: "Pototskaya Julia",
   },
   {
     id: 22,
@@ -372,11 +356,11 @@ export const mainData = [
     name: "Evgeniy Prokopiev",
   },
   {
-    id: 86,
+    id: 85,
     name: "Tatiana Naidenova",
   },
   {
-    id: 86,
+    id: 85,
     name: "Tatiana",
   },
   {
@@ -408,11 +392,11 @@ export const mainData = [
     name: "Eugene Yakshin",
   },
   {
-    id: 84,
+    id: 83,
     name: "Sofia Petrova",
   },
   {
-    id: 87,
+    id: 86,
     name: "Tanya Tolstykh",
   },
   {
@@ -484,7 +468,7 @@ export const mainData = [
     name: "(Валентин)",
   },
   {
-    id: 90,
+    id: 89,
     name: "Yulia Igoshina",
   },
 ];
