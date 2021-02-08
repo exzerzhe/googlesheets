@@ -8,15 +8,15 @@ export const mainData = [
     name: "Artyom Smirnov",
   },
   {
-    id: 88,
+    id: 90,
     name: "Yulia Dovgal",
   },
   {
-    id: 82,
+    id: 84,
     name: "Sergey Tovmasyan",
   },
   {
-    id: 70,
+    id: 72,
     name: "Nikolay Kostyurin",
   },
   {
@@ -28,11 +28,11 @@ export const mainData = [
     name: "Victor Selukov",
   },
   {
-    id: 87,
+    id: 89,
     name: "Elnur Ismailzada",
   },
   {
-    id: 87,
+    id: 89,
     name: "elnur",
   },
   {
@@ -48,11 +48,23 @@ export const mainData = [
     name: "Evgenia Dudareva",
   },
   {
-    id: 51,
+    id: 49,
+    name: "Jane Katz",
+  },
+  {
+    id: 50,
+    name: "РахманинаЕкатерина",
+  },
+  {
+    id: 50,
+    name: "Рахманина Екатерина",
+  },
+  {
+    id: 53,
     name: "Lena Kireeva",
   },
   {
-    id: 51,
+    id: 53,
     name: "elenakireeva",
   },
   {
@@ -84,15 +96,15 @@ export const mainData = [
     name: "Vladimir Buyanov",
   },
   {
-    id: 62,
+    id: 64,
     name: "Mikhail Gusev",
   },
   {
-    id: 63,
+    id: 65,
     name: "Mikhail Dolgikh",
   },
   {
-    id: 79,
+    id: 81,
     name: "Roman Pudashkin",
   },
   {
@@ -100,11 +112,11 @@ export const mainData = [
     name: "Alla Voropaeva",
   },
   {
-    id: 80,
+    id: 82,
     name: "Roman Yakovlev",
   },
   {
-    id: 73,
+    id: 75,
     name: "Olga Dosaeva",
   },
   {
@@ -112,15 +124,15 @@ export const mainData = [
     name: "vlad chuprin",
   },
   {
-    id: 52,
+    id: 54,
     name: "Janna Radovskaya",
   },
   {
-    id: 77,
+    id: 79,
     name: "Roman Kislenо́k",
   },
   {
-    id: 55,
+    id: 57,
     name: "Igor Korsukov",
   },
   {
@@ -128,19 +140,19 @@ export const mainData = [
     name: "Anton Chirtsov",
   },
   {
-    id: 84,
+    id: 86,
     name: "Stanislav Botev",
   },
   {
-    id: 84,
+    id: 86,
     name: "Станислав Ботев",
   },
   {
-    id: 84,
+    id: 86,
     name: "S+anislav",
   },
   {
-    id: 84,
+    id: 86,
     name: "Станислав",
   },
   {
@@ -160,7 +172,7 @@ export const mainData = [
     name: "Alexey Kovalevich",
   },
   {
-    id: 49,
+    id: 51,
     name: "Ekaterina Smekhova",
   },
   {
@@ -176,19 +188,19 @@ export const mainData = [
     name: "alexandr popov",
   },
   {
-    id: 57,
+    id: 59,
     name: "Kristina Zhukova",
   },
   {
-    id: 54,
+    id: 56,
     name: "Ivan Fedorov",
   },
   {
-    id: 67,
+    id: 69,
     name: "Nikita Zubarev",
   },
   {
-    id: 75,
+    id: 77,
     name: "Pavel Verkhovets",
   },
   {
@@ -200,27 +212,27 @@ export const mainData = [
     name: "Alexander  Danchenko",
   },
   {
-    id: 53,
+    id: 55,
     name: "Ivan Pankov",
   },
   {
-    id: 53,
+    id: 55,
     name: "pankov-id",
   },
   {
-    id: 68,
+    id: 70,
     name: "Nikita Korneev",
   },
   {
-    id: 68,
+    id: 70,
     name: "Никита Корнеев",
   },
   {
-    id: 71,
+    id: 73,
     name: "Nikolaj Moskovkin",
   },
   {
-    id: 60,
+    id: 62,
     name: "Maria Buryanina",
   },
   {
@@ -232,39 +244,39 @@ export const mainData = [
     name: "David Mandelstam",
   },
   {
-    id: 58,
+    id: 60,
     name: "Kristina Lyamina",
   },
   {
-    id: 58,
+    id: 60,
     name: "Kristina Liamina",
   },
   {
-    id: 58,
+    id: 60,
     name: "Kristina L",
   },
   {
-    id: 61,
+    id: 63,
     name: "Maria Protasova",
   },
   {
-    id: 61,
+    id: 63,
     name: "maria pro",
   },
   {
-    id: 66,
+    id: 68,
     name: "Michael Trutnev",
   },
   {
-    id: 66,
+    id: 68,
     name: "Михаил Трутнев",
   },
   {
-    id: 81,
+    id: 83,
     name: "Sergey Larin",
   },
   {
-    id: 81,
+    id: 83,
     name: "Sergey  Larin",
   },
   {
@@ -280,7 +292,7 @@ export const mainData = [
     name: "Dmitriy Shashkin",
   },
   {
-    id: 78,
+    id: 80,
     name: "Roman Pazilov",
   },
   {
@@ -288,11 +300,11 @@ export const mainData = [
     name: "Andrey Kovalev",
   },
   {
-    id: 76,
+    id: 78,
     name: "Paula Abdul",
   },
   {
-    id: 76,
+    id: 78,
     name: "Паула Paula",
   },
   {
@@ -300,11 +312,11 @@ export const mainData = [
     name: "Artem Sobolenkov",
   },
   {
-    id: 56,
+    id: 58,
     name: "Irina Tannik",
   },
   {
-    id: 56,
+    id: 58,
     name: "Ирина Танник",
   },
   {
@@ -328,7 +340,7 @@ export const mainData = [
     name: "Dmitriy Kretov",
   },
   {
-    id: 72,
+    id: 74,
     name: "Oleg Kashtalyan",
   },
   {
@@ -344,7 +356,7 @@ export const mainData = [
     name: "Artyom Feshchenko",
   },
   {
-    id: 74,
+    id: 76,
     name: "Olga Novikova",
   },
   {
@@ -356,11 +368,11 @@ export const mainData = [
     name: "Evgeniy Prokopiev",
   },
   {
-    id: 85,
+    id: 87,
     name: "Tatiana Naidenova",
   },
   {
-    id: 85,
+    id: 87,
     name: "Tatiana",
   },
   {
@@ -372,7 +384,7 @@ export const mainData = [
     name: "ADNREI IAKOBCHUK",
   },
   {
-    id: 50,
+    id: 52,
     name: "Ekaterina Shmakova",
   },
   {
@@ -384,7 +396,7 @@ export const mainData = [
     name: "Victor Kostyuk",
   },
   {
-    id: 69,
+    id: 71,
     name: "Nikolay Bulanov",
   },
   {
@@ -392,11 +404,11 @@ export const mainData = [
     name: "Eugene Yakshin",
   },
   {
-    id: 83,
+    id: 85,
     name: "Sofia Petrova",
   },
   {
-    id: 86,
+    id: 88,
     name: "Tanya Tolstykh",
   },
   {
@@ -432,15 +444,15 @@ export const mainData = [
     name: "Eugene Mardashov",
   },
   {
-    id: 59,
+    id: 61,
     name: "Maxim Chistyakov",
   },
   {
-    id: 65,
+    id: 67,
     name: "Mikhail Korolev",
   },
   {
-    id: 64,
+    id: 66,
     name: "Mikhail Kirilin",
   },
   {
@@ -468,7 +480,7 @@ export const mainData = [
     name: "(Валентин)",
   },
   {
-    id: 89,
+    id: 91,
     name: "Yulia Igoshina",
   },
 ];
