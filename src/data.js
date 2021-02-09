@@ -57,6 +57,10 @@ export const mainData = [
   },
   {
     id: 50,
+    name: "Rakhmanina Ekaterina",
+  },
+  {
+    id: 50,
     name: "Рахманина Екатерина",
   },
   {
