@@ -5,6 +5,10 @@ export const mainData = [
 	},
 	{
 		id: 3,
+		name: "Aleksandr Bendyukov",
+	},
+	{
+		id: 3,
 		name: "a.bendyukov",
 	},
 	{
@@ -160,343 +164,335 @@ export const mainData = [
 		name: "Victor Selukov",
 	},
 	{
-		id: 32,
-		name: "Vladimir Skabelkin",
-	},
-	{
 		id: 33,
 		name: "Vitalii Tutunov",
 	},
 	{
 		id: 34,
-		name: "Vlad",
-	},
-	{
-		id: 35,
 		name: "Vladimir Buyanov",
 	},
 	{
-		id: 36,
+		id: 35,
 		name: "vlad chuprin",
 	},
 	{
-		id: 37,
+		id: 36,
 		name: "Vyacheslav Shalkevich",
 	},
 	{
-		id: 38,
+		id: 36,
+		name: "Vyachaslav Shalkevich",
+	},
+	{
+		id: 37,
 		name: "Давид Мандельштам",
 	},
 	{
-		id: 38,
+		id: 37,
 		name: "David Mandelstam",
 	},
 	{
-		id: 39,
+		id: 38,
 		name: "Denis Krylov",
 	},
 	{
-		id: 40,
+		id: 39,
 		name: "Дмитрий Кретов",
 	},
 	{
-		id: 40,
+		id: 39,
 		name: "Dmitriy Kretov",
 	},
 	{
-		id: 41,
+		id: 40,
 		name: "Dmitry Kondakov",
 	},
 	{
-		id: 42,
+		id: 41,
 		name: "Dmitry Marchikhin",
 	},
 	{
-		id: 43,
+		id: 42,
 		name: "Dmitry Maslennikov",
 	},
 	{
-		id: 44,
+		id: 43,
 		name: "Dmitriy Shashkin",
 	},
 	{
-		id: 45,
+		id: 44,
 		name: "Eugene Belyakov",
 	},
 	{
-		id: 46,
+		id: 45,
 		name: "Eugene Mardashov",
 	},
 	{
-		id: 47,
+		id: 46,
 		name: "Evgeniy Prokopiev",
 	},
 	{
-		id: 48,
-		name: "Ekaterina Nazarova",
-	},
-	{
-		id: 48,
+		id: 47,
 		name: "Eugene Yakshin",
 	},
 	{
-		id: 49,
+		id: 48,
 		name: "Evgeniya Dudareva",
 	},
 	{
-		id: 49,
+		id: 48,
 		name: "Евгения Дударева",
 	},
 	{
-		id: 49,
+		id: 48,
 		name: "Evgenia Dudareva",
 	},
 	{
-		id: 50,
+		id: 49,
 		name: "Jane Katz",
 	},
 	{
-		id: 51,
+		id: 50,
 		name: "РахманинаЕкатерина",
 	},
 	{
-		id: 51,
+		id: 50,
 		name: "Rakhmanina Ekaterina",
 	},
 	{
-		id: 51,
+		id: 50,
 		name: "Рахманина Екатерина",
 	},
 	{
-		id: 52,
+		id: 51,
 		name: "Ekaterina Smekhova",
 	},
 	{
-		id: 54,
-		name: "Lena Kireeva",
+		id: 51,
+		name: "iPhone Катя",
 	},
 	{
-		id: 54,
-		name: "elenakireeva",
-	},
-	{
-		id: 53,
+		id: 52,
 		name: "Ekaterina Shmakova",
 	},
 	{
-		id: 55,
+		id: 52,
+		name: "Ekaterina Shmakova (Konstantin Kutsenko)",
+	},
+	{
+		id: 53,
+		name: "Lena Kireeva",
+	},
+	{
+		id: 53,
+		name: "elenakireeva",
+	},
+	{
+		id: 54,
 		name: "Janna Radovskaya",
 	},
 	{
-		id: 56,
-		name: "Ivan Pankov",
-	},
-	{
-		id: 56,
-		name: "pankovid",
-	},
-	{
-		id: 57,
+		id: 55,
 		name: "Ivan Fedorov",
 	},
 	{
-		id: 58,
+		id: 56,
 		name: "Igor Korsukov",
 	},
 	{
-		id: 59,
+		id: 57,
 		name: "Irina Tannik",
 	},
 	{
-		id: 59,
+		id: 57,
 		name: "Ирина Танник",
 	},
 	{
-		id: 60,
+		id: 58,
 		name: "Kristina Zhukova",
 	},
 	{
-		id: 61,
+		id: 59,
 		name: "Kristina Lyamina",
 	},
 	{
-		id: 61,
+		id: 59,
 		name: "Kristina Liamina",
 	},
 	{
-		id: 61,
+		id: 59,
 		name: "Kristina L",
 	},
 	{
-		id: 62,
+		id: 60,
 		name: "Maxim Chistyakov",
 	},
 	{
-		id: 63,
+		id: 61,
 		name: "Maria Buryanina",
 	},
 	{
-		id: 64,
+		id: 62,
 		name: "Maria Protasova",
 	},
 	{
-		id: 64,
+		id: 62,
 		name: "maria pro",
 	},
 	{
-		id: 65,
+		id: 63,
 		name: "Mikhail Gusev",
 	},
 	{
-		id: 66,
+		id: 64,
 		name: "Mikhail Dolgikh",
 	},
 	{
-		id: 67,
+		id: 65,
 		name: "Mikhail Kirilin",
 	},
 	{
-		id: 68,
+		id: 66,
 		name: "Mikhail Korolev",
 	},
 	{
-		id: 69,
+		id: 67,
 		name: "Michael Trutnev",
 	},
 	{
-		id: 69,
+		id: 67,
 		name: "Михаил Трутнев",
 	},
 	{
-		id: 70,
+		id: 68,
 		name: "Nikita Zubarev",
 	},
 	{
-		id: 71,
+		id: 69,
 		name: "Nikita Korneev",
 	},
 	{
-		id: 71,
+		id: 69,
 		name: "Никита Корнеев",
 	},
 	{
-		id: 72,
+		id: 70,
 		name: "Nikolay Bulanov",
 	},
 	{
-		id: 73,
+		id: 71,
 		name: "Nikolay Kostyurin",
 	},
 	{
-		id: 74,
+		id: 72,
 		name: "Nikolaj Moskovkin",
 	},
 	{
-		id: 75,
+		id: 73,
 		name: "Oleg Kashtalyan",
 	},
   {
-		id: 76,
+		id: 74,
 		name: "Olga Dehtiar",
 	},
 	{
-		id: 77,
+		id: 75,
 		name: "Olga Dosaeva",
 	},
 	{
-		id: 78,
+		id: 76,
 		name: "Olga Novikova",
 	},
 	{
-		id: 79,
+		id: 77,
 		name: "Pavel Verkhovets",
 	},
 	{
-		id: 80,
+		id: 78,
 		name: "Paula Abdul",
 	},
 	{
-		id: 80,
+		id: 78,
 		name: "Паула Paula",
 	},
 	{
-		id: 81,
+		id: 79,
 		name: "Roman Kislenо́k",
 	},
 	{
-		id: 82,
+		id: 80,
 		name: "Roman Pazilov",
 	},
 	{
-		id: 83,
+		id: 81,
 		name: "Roman Pudashkin",
 	},
 	{
-		id: 84,
+		id: 82,
 		name: "Roman Yakovlev",
 	},
 	{
-		id: 85,
+		id: 83,
 		name: "Sergey Larin",
 	},
 	{
-		id: 85,
+		id: 83,
 		name: "Sergey  Larin",
 	},
 	{
-		id: 86,
+		id: 84,
 		name: "Sergey Tovmasyan",
 	},
 	{
-		id: 87,
+		id: 85,
 		name: "Sofia Petrova",
 	},
 	{
-		id: 88,
+		id: 86,
 		name: "Stanislav Botev",
 	},
 	{
-		id: 88,
+		id: 86,
 		name: "Станислав Ботев",
 	},
 	{
-		id: 88,
+		id: 86,
 		name: "S+anislav",
 	},
 	{
-		id: 88,
+		id: 86,
 		name: "Станислав",
 	},
 	{
-		id: 89,
+		id: 87,
 		name: "Tatiana Naidenova",
 	},
 	{
-		id: 89,
+		id: 87,
 		name: "Tatiana",
 	},
 	{
-		id: 90,
+		id: 88,
 		name: "Tanya Tolstykh",
 	},
 	{
-		id: 91,
+		id: 89,
 		name: "Elnur Ismailzada",
 	},
 	{
-		id: 91,
+		id: 89,
 		name: "elnur",
 	},
 	{
-		id: 92,
+		id: 90,
 		name: "Yulia Dovgal",
 	},
 	{
-		id: 93,
+		id: 91,
 		name: "Yulia Igoshina",
 	},
   {
-		id: 94,
+		id: 92,
 		name: "Daniel Ray",
 	},
 ]
