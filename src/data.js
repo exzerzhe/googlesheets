@@ -445,7 +445,7 @@ export const mainData = [
 	},
 	{
 		id: 85,
-		name: "Sofia Petrova",
+		name: "Sofia Yakovleva",
 	},
 	{
 		id: 86,
