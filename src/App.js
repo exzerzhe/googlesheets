@@ -162,7 +162,7 @@ export default class ContactForm extends React.Component {
               this.setState({ loadingComplete: true });
             }
           }.bind(this),
-          800
+          500
         );
       }.bind(this),
       5000
