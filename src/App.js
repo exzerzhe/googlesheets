@@ -154,6 +154,7 @@ export default class ContactForm extends React.Component {
                 },
                 function (reason) {
                   console.error("error: " + reason.result.error.message);
+                  alert(reason.result.error.message);
                 }
               );
             } else {
