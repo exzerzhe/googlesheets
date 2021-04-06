@@ -139,7 +139,7 @@ export default class ContactForm extends React.Component {
                 data: [
                   {
                     majorDimension: "ROWS",
-                    range: "Саундчеки!C" + arr[i] + ":C100",
+                    range: "Саундчеки!C" + arr[i] + ":C110",
                     values: [["1"]],
                   },
                 ],
